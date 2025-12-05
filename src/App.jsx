@@ -5,6 +5,7 @@ function App() {
     <>
       <h1>Learning how to Learn</h1>
       <h3>Breaking old habits</h3>
+      <h4>Creating new and Powerful Ones</h4>
     </>
   );
 }
